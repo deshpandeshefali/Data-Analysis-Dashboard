@@ -15,7 +15,10 @@ The main objective was to clean and transform raw survey data, analyze user resp
 
 1. Common job titles and preferred programming languages in the dataset 
 2. Salary trends through calculated averages 
-3. Industry and country-wise participation patterns 
+3. Industry and country-wise participation patterns
+
+## Dashboard
+<a href="">View Dashboard</a>
 
 ## Process
 
