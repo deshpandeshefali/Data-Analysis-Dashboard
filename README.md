@@ -18,7 +18,7 @@ The main objective was to clean and transform raw survey data, analyze user resp
 3. Industry and country-wise participation patterns
 
 ## Dashboard
-<a href="">View Dashboard</a>
+<a href="https://github.com/deshpandeshefali/Data-Analysis-Dashboard/blob/main/dashboard.png">View Dashboard</a>
 
 ## Process
 
